@@ -17,6 +17,6 @@ Afterward:
 `npm start`
 
 # Optimization: 
-- Could make this app responsive by incorporating @media for mobile device viewports.
+- Could make this app responsive by incorporating `@media` for mobile device viewports.
 - Could add a new pop-up screen or new page for payment processing.
 
