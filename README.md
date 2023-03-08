@@ -1,5 +1,5 @@
 # ReactSushi
-React sushi menu online ordering app template with a functional cart. Add menu items to the cart or remove them from it for the total amount.  
+React sushi menu online ordering CRUD app template with a functional cart. Add menu items to the cart or remove them from it for the total amount.  
 
 **Link to website:** https://reactsushiorder.netlify.app/
 <img width="853" alt="Screenshot 2023-02-08 at 4 16 00 PM" src="https://user-images.githubusercontent.com/100463706/217681676-52a84900-11f9-445a-801b-7f06dc43a666.png">
