@@ -6,7 +6,7 @@ React sushi menu online ordering CRUD app template with a functional cart. Add m
 <img width="848" alt="Screenshot 2023-02-08 at 4 16 21 PM" src="https://user-images.githubusercontent.com/100463706/217681706-77ee91cd-d993-49f0-b3c7-7dd40f060e00.png">
 
 # How it's made:
-**Tech used:** HTML 5, CSS 3, JavaScript, React.js, Node.js
+`HTML 5` `CSS 3` `JavaScript` `ES6` `React.js`
 
 # Install all dependencies to use this app as your template:
 
